@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: zhg-dubbo-consumer
+  dubbo:
+    application:
+      name: zhg-dubbo-consumer   #别名，消费方应用信息，不要与提供方相同
+
+    scan: com.example.demo.controller     #dubbo注解扫描
+server:
+  port: 8082
