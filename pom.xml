@@ -26,7 +26,7 @@
     <properties>
         <java.version>1.8</java.version>
         <spring-dubbo.version>1.0.0</spring-dubbo.version>
-        <dubbo.version>2.6.0</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <zkclient.version>0.1</zkclient.version>
         <zookeeper.version>3.4.9</zookeeper.version>
     </properties>
